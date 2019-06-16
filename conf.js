@@ -30,7 +30,7 @@ jsproxy_config({
       lines: [
         // 实验中...
         // 参考 https://github.com/EtherDream/jsproxy/tree/master/cf-worker
-        'ko.psed.cf'
+        'bypass.psed.cf'
       ]
     }
   },
